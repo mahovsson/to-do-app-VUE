@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Vytvor banner dezi",
+      "details": "Create new homepage banner!!!",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "Manzelka chce kavu",
+      "details": "Urob jej ju",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Dorob jedlo",
+      "details": "Urob ho poriadne\n",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
